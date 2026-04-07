@@ -1,0 +1,14 @@
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\bin\Debug\net8.0\Pograma 00.exe
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\bin\Debug\net8.0\Pograma 00.deps.json
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\bin\Debug\net8.0\Pograma 00.runtimeconfig.json
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\bin\Debug\net8.0\Pograma 00.dll
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\bin\Debug\net8.0\Pograma 00.pdb
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.AssemblyInfoInputs.cache
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.AssemblyInfo.cs
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.csproj.CoreCompileInputs.cache
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.dll
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\refint\Pograma 00.dll
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.pdb
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\Pograma 00.genruntimeconfig.cache
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Programa00\obj\Debug\net8.0\ref\Pograma 00.dll
