@@ -1,0 +1,15 @@
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\bin\Debug\net8.0\Ejercicio1array.exe
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\bin\Debug\net8.0\Ejercicio1array.deps.json
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\bin\Debug\net8.0\Ejercicio1array.runtimeconfig.json
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\bin\Debug\net8.0\Ejercicio1array.dll
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\bin\Debug\net8.0\Ejercicio1array.pdb
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.AssemblyInfoInputs.cache
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.AssemblyInfo.cs
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.csproj.CoreCompileInputs.cache
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.sourcelink.json
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.dll
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\refint\Ejercicio1array.dll
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.pdb
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\Ejercicio1array.genruntimeconfig.cache
+C:\Users\lucho\OneDrive\Documentos\GitHub\PRACTICAPROG3Luciano\Ejercicio1array\obj\Debug\net8.0\ref\Ejercicio1array.dll
