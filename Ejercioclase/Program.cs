@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Program 
 {
     static void Main()
     {
@@ -18,7 +18,7 @@ class Program
 
         Console.WriteLine("\nRESULTADOS:");
 
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < 30; i++)
         {
             if (edades[i] > 30)
             {
